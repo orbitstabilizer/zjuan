@@ -1,6 +1,5 @@
 export type Site = {
   website: string;
-  base: string;
   author: string;
   desc: string;
   title: string;
