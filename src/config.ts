@@ -2,6 +2,7 @@ import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
   website: "https://astronaut.github.io",
+  base: "/zjuan",
   author: "Yusuf AKIN",
   desc: "Blog",
   title: "",
